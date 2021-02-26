@@ -1,0 +1,31 @@
+  
+body {
+    height: 85vh;
+    width: 85vw;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+    color: rgb(90, 236, 5);
+    font-family: cursive;
+    font-weight: bold;
+  }
+  
+  button {
+    font-family: fantasy;
+    font-size: 24px;
+    color: rgb(27, 197, 27);
+    font-weight: bold;
+    
+    width: 200px;
+    height: 100px;
+    background-color: white;
+  
+    margin-bottom: 16px;
+  }
+  
+  canvas {
+    display: none;
+  }
